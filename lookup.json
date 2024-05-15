@@ -1,0 +1,882 @@
+{
+    "\ud83d\ude02": {
+        "name": "lol",
+        "unicode": "U0001F602",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 54438
+    },
+    "\u2764\ufe0f": {
+        "name": "red-heart",
+        "unicode": "U00002764",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 44028
+    },
+    "\ud83e\udd23": {
+        "name": "rofl",
+        "unicode": "U0001F923",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 40534
+    },
+    "\ud83d\udc4d": {
+        "name": "thumbs-up",
+        "unicode": "U0001F44D",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 27475
+    },
+    "\ud83d\ude2d": {
+        "name": "crying-face",
+        "unicode": "U0001F62D",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 49274
+    },
+    "\ud83d\ude4f": {
+        "name": "amen",
+        "unicode": "U0001F64F",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 36096
+    },
+    "\ud83d\ude18": {
+        "name": "blowing-kiss",
+        "unicode": "U0001F618",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 7304
+    },
+    "\ud83e\udd70": {
+        "name": "happy-love",
+        "unicode": "U0001F970",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 29805
+    },
+    "\ud83d\ude0d": {
+        "name": "crazy-love",
+        "unicode": "U0001F60D",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 29616
+    },
+    "\ud83d\ude0a": {
+        "name": "happy-smile",
+        "unicode": "U0001F60A",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 9389
+    },
+    "\ud83c\udf89": {
+        "name": "party",
+        "unicode": "U0001F389",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 22185
+    },
+    "\ud83d\ude01": {
+        "name": "beaming",
+        "unicode": "U0001F601",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 6082
+    },
+    "\ud83d\udc95": {
+        "name": "couple-hearts",
+        "unicode": "U0001F495",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 8379
+    },
+    "\ud83e\udd7a": {
+        "name": "oww",
+        "unicode": "U0001F97A",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 6878
+    },
+    "\ud83d\ude05": {
+        "name": "ehm",
+        "unicode": "U0001F605",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 25706
+    },
+    "\ud83d\udd25": {
+        "name": "fire-emoji",
+        "unicode": "U0001F525",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 34577
+    },
+    "\ud83e\udd26": {
+        "name": "facepalm",
+        "unicode": "U0001F926",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 3907
+    },
+    "\ud83e\udd37": {
+        "name": "dunno",
+        "unicode": "U0001F937",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 4363
+    },
+    "\ud83d\ude44": {
+        "name": "ehh",
+        "unicode": "U0001F644",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 4064
+    },
+    "\ud83d\ude06": {
+        "name": "top-kek",
+        "unicode": "U0001F606",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 4471
+    },
+    "\ud83e\udd17": {
+        "name": "hugging-face",
+        "unicode": "U0001F917",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 6738
+    },
+    "\ud83d\ude09": {
+        "name": "wink",
+        "unicode": "U0001F609",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 22760
+    },
+    "\ud83c\udf82": {
+        "name": "bday",
+        "unicode": "U0001F382",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 4112
+    },
+    "\ud83e\udd14": {
+        "name": "mumble",
+        "unicode": "U0001F914",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 24309
+    },
+    "\ud83d\udc4f": {
+        "name": "grats",
+        "unicode": "U0001F44F",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 5543
+    },
+    "\ud83d\ude42": {
+        "name": "smile",
+        "unicode": "U0001F642",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2243
+    },
+    "\ud83d\ude33": {
+        "name": "omg",
+        "unicode": "U0001F633",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 3580
+    },
+    "\ud83e\udd73": {
+        "name": "party-hat",
+        "unicode": "U0001F973",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 21314
+    },
+    "\ud83d\ude0e": {
+        "name": "sunglasses",
+        "unicode": "U0001F60E",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 21301
+    },
+    "\ud83d\udc4c": {
+        "name": "ok",
+        "unicode": "U0001F44C",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 3985
+    },
+    "\ud83d\udc9c": {
+        "name": "purple-heart",
+        "unicode": "U0001F49C",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 8557
+    },
+    "\ud83d\ude14": {
+        "name": "bit-sad",
+        "unicode": "U0001F614",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2121
+    },
+    "\ud83d\udcaa": {
+        "name": "muscle",
+        "unicode": "U0001F4AA",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 5065
+    },
+    "\u2728": {
+        "name": "bling",
+        "unicode": "U00002728",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 18245
+    },
+    "\ud83d\udc96": {
+        "name": "heart-bling",
+        "unicode": "U0001F496",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 5882
+    },
+    "\ud83d\udc40": {
+        "name": "eyes",
+        "unicode": "U0001F440",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 23633
+    },
+    "\ud83d\ude22": {
+        "name": "tear",
+        "unicode": "U0001F622",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1460
+    },
+    "\ud83d\udc49": {
+        "name": "point-right",
+        "unicode": "U0001F449",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 20698
+    },
+    "\ud83d\ude29": {
+        "name": "augh",
+        "unicode": "U0001F629",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 4064
+    },
+    "\ud83d\udcaf": {
+        "name": "100",
+        "unicode": "U0001F4AF",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 8465
+    },
+    "\ud83c\udf39": {
+        "name": "rose",
+        "unicode": "U0001F339",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 3254
+    },
+    "\ud83c\udf88": {
+        "name": "balloon",
+        "unicode": "U0001F388",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2030
+    },
+    "\ud83d\ude21": {
+        "name": "rage",
+        "unicode": "U0001F621",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 20659
+    },
+    "\ud83d\udc90": {
+        "name": "flowers",
+        "unicode": "U0001F490",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 3925
+    },
+    "\ud83d\ude48": {
+        "name": "monkey-eyes",
+        "unicode": "U0001F648",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1561
+    },
+    "\ud83e\udd1e": {
+        "name": "fingers-crossed",
+        "unicode": "U0001F91E",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2167
+    },
+    "\ud83d\ude4c": {
+        "name": "hands-up",
+        "unicode": "U0001F64C",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 5882
+    },
+    "\ud83e\udd2a": {
+        "name": "silly",
+        "unicode": "U0001F92A",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2109
+    },
+    "\ud83d\udc8b": {
+        "name": "kiss",
+        "unicode": "U0001F48B",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2589
+    },
+    "\ud83d\udc80": {
+        "name": "og",
+        "unicode": "U0001F480",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 22899
+    },
+    "\ud83d\udc94": {
+        "name": "broken-heart",
+        "unicode": "U0001F494",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2756
+    },
+    "\ud83e\udd29": {
+        "name": "eye-stars",
+        "unicode": "U0001F929",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 4458
+    },
+    "\ud83d\ude43": {
+        "name": "topsy",
+        "unicode": "U0001F643",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1942
+    },
+    "\ud83d\ude31": {
+        "name": "scared",
+        "unicode": "U0001F631",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2288
+    },
+    "\ud83d\ude34": {
+        "name": "sleepy",
+        "unicode": "U0001F634",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 739
+    },
+    "\ud83c\udf1e": {
+        "name": "sunny-face",
+        "unicode": "U0001F31E",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2206
+    },
+    "\ud83c\udf38": {
+        "name": "pink-flower",
+        "unicode": "U0001F338",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 4882
+    },
+    "\ud83d\ude08": {
+        "name": "devilish",
+        "unicode": "U0001F608",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2188
+    },
+    "\ud83c\udfb6": {
+        "name": "music",
+        "unicode": "U0001F3B6",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2708
+    },
+    "\ud83c\udf8a": {
+        "name": "confetti",
+        "unicode": "U0001F38A",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 3030
+    },
+    "\u2600\ufe0f": {
+        "name": "sun",
+        "unicode": "U00002600",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 17190
+    },
+    "\ud83d\udcb0": {
+        "name": "money-bag",
+        "unicode": "U0001F4B0",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2821
+    },
+    "\ud83d\udc51": {
+        "name": "crown",
+        "unicode": "U0001F451",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2275
+    },
+    "\ud83c\udf81": {
+        "name": "gift",
+        "unicode": "U0001F381",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 2238
+    },
+    "\ud83d\udca5": {
+        "name": "explosion",
+        "unicode": "U0001F4A5",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 3303
+    },
+    "\ud83d\ude4b": {
+        "name": "hand-raised",
+        "unicode": "U0001F64B",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1072
+    },
+    "\ud83d\ude11": {
+        "name": "plain-face",
+        "unicode": "U0001F611",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 630
+    },
+    "\ud83e\udd74": {
+        "name": "drunk",
+        "unicode": "U0001F974",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1423
+    },
+    "\ud83d\udca9": {
+        "name": "bozhi",
+        "unicode": "U0001F4A9",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 19816
+    },
+    "\u2705": {
+        "name": "good",
+        "unicode": "U00002705",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 26761
+    },
+    "\ud83e\udd2e": {
+        "name": "puke",
+        "unicode": "U0001F92E",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1645
+    },
+    "\ud83c\udf1f": {
+        "name": "star",
+        "unicode": "U0001F31F",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1708
+    },
+    "\u2757": {
+        "name": "exclamation",
+        "unicode": "U00002757",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 820
+    },
+    "\ud83c\udf08": {
+        "name": "pride",
+        "unicode": "U0001F308",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1899
+    },
+    "\ud83d\udd95": {
+        "name": "fuck-you",
+        "unicode": "U0001F595",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 17230
+    },
+    "\ud83d\udd34": {
+        "name": "red-dot",
+        "unicode": "U0001F534",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 933
+    },
+    "\ud83c\udf3b": {
+        "name": "sunflower",
+        "unicode": "U0001F33B",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1900
+    },
+    "\ud83d\udc83": {
+        "name": "flamenco",
+        "unicode": "U0001F483",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1196
+    },
+    "\ud83c\udfc3": {
+        "name": "running-man",
+        "unicode": "U0001F3C3",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 674
+    },
+    "\ud83d\udc41\ufe0f": {
+        "name": "eye",
+        "unicode": "U0001F441",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 414
+    },
+    "\u26a1": {
+        "name": "bolt",
+        "unicode": "U000026A1",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1237
+    },
+    "\u2615": {
+        "name": "coffee",
+        "unicode": "U00002615",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 4688
+    },
+    "\ud83c\udf40": {
+        "name": "clover",
+        "unicode": "U0001F340",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1954
+    },
+    "\ud83d\udca6": {
+        "name": "spurt",
+        "unicode": "U0001F4A6",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1217
+    },
+    "\ud83e\udd8b": {
+        "name": "butterfly",
+        "unicode": "U0001F98B",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1200
+    },
+    "\ud83d\ude39": {
+        "name": "cat-laughing",
+        "unicode": "U0001F639",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1009
+    },
+    "\ud83d\udca4": {
+        "name": "zzz",
+        "unicode": "U0001F4A4",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 374
+    },
+    "\ud83d\udc30": {
+        "name": "bunny",
+        "unicode": "U0001F430",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 35264
+    },
+    "\ud83c\udf7b": {
+        "name": "cheers",
+        "unicode": "U0001F37B",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1023
+    },
+    "\ud83e\udd20": {
+        "name": "cowboy",
+        "unicode": "U0001F920",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 573
+    },
+    "\ud83d\ude3b": {
+        "name": "crazy-love-cat",
+        "unicode": "U0001F63B",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1201
+    },
+    "\ud83c\udf19": {
+        "name": "crescent",
+        "unicode": "U0001F319",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 652
+    },
+    "\ud83d\ude4a": {
+        "name": "monkey-mouth",
+        "unicode": "U0001F64A",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 417
+    },
+    "\ud83e\udd21": {
+        "name": "clown",
+        "unicode": "U0001F921",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 22295
+    },
+    "\ud83e\udd13": {
+        "name": "glasses",
+        "unicode": "U0001F913",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 738
+    },
+    "\u2620\ufe0f": {
+        "name": "brook",
+        "unicode": "U0002620F",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1130
+    },
+    "\ud83e\udd76": {
+        "name": "freeze",
+        "unicode": "U0001F976",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 611
+    },
+    "\ud83c\udf46": {
+        "name": "mulignan",
+        "unicode": "U0001F619",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 425
+    },
+    "\ud83e\udd11": {
+        "name": "dollar-eyes",
+        "unicode": "U0001F911",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1059
+    },
+    "\ud83d\udc85": {
+        "name": "nails",
+        "unicode": "U0001F485",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 604
+    },
+    "\ud83d\udc36": {
+        "name": "doggo",
+        "unicode": "U0001F436",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1435
+    },
+    "\ud83c\udf53": {
+        "name": "strawberry",
+        "unicode": "U0001F353",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 363
+    },
+    "\ud83d\udc44": {
+        "name": "lips",
+        "unicode": "U0001F444",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 391
+    },
+    "\ud83c\udf3f": {
+        "name": "branch",
+        "unicode": "U0001F33F",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 994
+    },
+    "\u27a1\ufe0f": {
+        "name": "go-right",
+        "unicode": "U000027A1",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1223
+    },
+    "\ud83c\udf51": {
+        "name": "peach",
+        "unicode": "U0001F351",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 667
+    },
+    "\ud83d\udc8e": {
+        "name": "diamond",
+        "unicode": "U0001F48E",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 1212
+    },
+    "\ud83c\udf31": {
+        "name": "sprout",
+        "unicode": "U0001F331",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 890
+    },
+    "\u26a0\ufe0f": {
+        "name": "warning",
+        "unicode": "U000026A0",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 374
+    },
+    "\ud83c\udf77": {
+        "name": "wine",
+        "unicode": "U0001F377",
+        "visual_features": null,
+        "embedding": null,
+        "mixed_features": null,
+        "dataset_count": 547
+    }
+}
