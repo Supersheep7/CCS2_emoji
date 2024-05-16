@@ -7,7 +7,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 54438
+        "dataset_count": None,
     },
     "❤️": {
         "name": "red-heart",
@@ -15,7 +15,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 44028
+        "dataset_count": None,
     },
     "🤣": {
         "name": "rofl",
@@ -23,7 +23,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 40534
+        "dataset_count": None,
     },
     "👍": {
         "name": "thumbs-up",
@@ -31,7 +31,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 27475
+        "dataset_count": None,
     },
     "😭": {
         "name": "crying-face",
@@ -39,7 +39,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 49274
+        "dataset_count": None,
     },
     "🙏": {
         "name": "amen",
@@ -47,7 +47,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 36096
+        "dataset_count": None,
     },
     "😘": {
         "name": "blowing-kiss",
@@ -55,7 +55,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 7304
+        "dataset_count": None,
     },
     "🥰": {
         "name": "happy-love",
@@ -63,7 +63,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 29805
+        "dataset_count": None,
     },
     "😍": {
         "name": "crazy-love",
@@ -71,7 +71,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 29616
+        "dataset_count": None,
     },
     "😊": {
         "name": "happy-smile",
@@ -79,7 +79,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 9389
+        "dataset_count": None,
     },
     "🎉": {
         "name": "party",
@@ -87,7 +87,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 22185
+        "dataset_count": None,
     },
     "😁": {
         "name": "beaming",
@@ -95,7 +95,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 6082
+        "dataset_count": None,
     },
     "💕": {
         "name": "couple-hearts",
@@ -103,7 +103,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 8379
+        "dataset_count": None,
     },
     "🥺": {
         "name": "oww",
@@ -111,7 +111,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 6878
+        "dataset_count": None,
     },
     "😅": {
         "name": "ehm",
@@ -119,7 +119,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": 25706
+        "dataset_count": None,
     },
     "🔥": {
         "name": "fire-emoji",
@@ -127,7 +127,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤦": {
         "name": "facepalm",
@@ -135,7 +135,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤷": {
         "name": "dunno",
@@ -143,7 +143,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🙄": {
         "name": "ehh",
@@ -151,7 +151,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😆": {
         "name": "top-kek",
@@ -159,7 +159,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤗": {
         "name": "hugging-face",
@@ -167,7 +167,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😉": {
         "name": "wink",
@@ -175,7 +175,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🎂": {
         "name": "bday",
@@ -183,7 +183,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤔": {
         "name": "mumble",
@@ -191,7 +191,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "👏": {
         "name": "grats",
@@ -199,7 +199,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🙂": {
         "name": "smile",
@@ -207,7 +207,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😳": {
         "name": "omg",
@@ -215,7 +215,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🥳": {
         "name": "party-hat",
@@ -223,7 +223,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😎": {
         "name": "sunglasses",
@@ -231,7 +231,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "👌": {
         "name": "ok",
@@ -239,7 +239,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💜": {
         "name": "purple-heart",
@@ -247,7 +247,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😔": {
         "name": "bit-sad",
@@ -255,7 +255,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💪": {
         "name": "muscle",
@@ -263,7 +263,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "✨": {
         "name": "bling",
@@ -271,7 +271,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💖": {
         "name": "heart-bling",
@@ -279,7 +279,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "👀": {
         "name": "eyes",
@@ -287,7 +287,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😢": {
         "name": "tear",
@@ -295,7 +295,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "👉": {
         "name": "point-right",
@@ -303,7 +303,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😩": {
         "name": "augh",
@@ -311,7 +311,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💯": {
         "name": "100",
@@ -319,7 +319,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🌹": {
         "name": "rose",
@@ -327,7 +327,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🎈": {
         "name": "balloon",
@@ -335,7 +335,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😡": {
         "name": "rage",
@@ -343,7 +343,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💐": {
         "name": "flowers",
@@ -351,7 +351,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🙈": {
         "name": "monkey-eyes",
@@ -359,7 +359,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤞": {
         "name": "fingers-crossed",
@@ -367,7 +367,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🙌": {
         "name": "hands-up",
@@ -375,7 +375,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤪": {
         "name": "silly",
@@ -383,7 +383,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💋": {
         "name": "kiss",
@@ -391,7 +391,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💀": {
         "name": "og",
@@ -399,7 +399,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💔": {
         "name": "broken-heart",
@@ -407,7 +407,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤩": {
         "name": "eye-stars",
@@ -415,7 +415,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🙃": {
         "name": "topsy",
@@ -423,7 +423,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😱": {
         "name": "scared",
@@ -431,7 +431,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🌞": {
         "name": "sunny-face",
@@ -439,7 +439,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🌸": {
         "name": "pink-flower",
@@ -447,7 +447,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😈": {
         "name": "devilish",
@@ -455,7 +455,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🎶": {
         "name": "music",
@@ -463,7 +463,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🎊": {
         "name": "confetti",
@@ -471,7 +471,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "☀️": {
         "name": "sun",
@@ -479,7 +479,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💰": {
         "name": "money-bag",
@@ -487,7 +487,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "👑": {
         "name": "crown",
@@ -495,7 +495,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🎁": {
         "name": "gift",
@@ -503,7 +503,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💥": {
         "name": "explosion",
@@ -511,7 +511,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🙋": {
         "name": "hand-raised",
@@ -519,7 +519,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🥴": {
         "name": "drunk",
@@ -527,7 +527,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💩": {
         "name": "bozhi",
@@ -535,7 +535,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "✅": {
         "name": "good",
@@ -543,7 +543,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤮": {
         "name": "puke",
@@ -551,7 +551,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🌟": {
         "name": "star",
@@ -559,7 +559,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🌈": {
         "name": "pride",
@@ -567,7 +567,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🖕": {
         "name": "fuck-you",
@@ -575,7 +575,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🔴": {
         "name": "red-dot",
@@ -583,7 +583,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🌻": {
         "name": "sunflower",
@@ -591,7 +591,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💃": {
         "name": "flamenco",
@@ -599,7 +599,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🏃": {
         "name": "running-man",
@@ -607,7 +607,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "⚡": {
         "name": "bolt",
@@ -615,7 +615,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "☕": {
         "name": "coffee",
@@ -623,7 +623,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🍀": {
         "name": "clover",
@@ -631,7 +631,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💦": {
         "name": "spurt",
@@ -639,7 +639,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🦋": {
         "name": "butterfly",
@@ -647,7 +647,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😹": {
         "name": "cat-laughing",
@@ -655,7 +655,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🐰": {
         "name": "bunny",
@@ -663,7 +663,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🍻": {
         "name": "cheers",
@@ -671,7 +671,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "😻": {
         "name": "crazy-love-cat",
@@ -679,7 +679,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤡": {
         "name": "clown",
@@ -687,7 +687,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤓": {
         "name": "glasses",
@@ -695,7 +695,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "☠️": {
         "name": "brook",
@@ -703,7 +703,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🤑": {
         "name": "dollar-eyes",
@@ -711,7 +711,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💅": {
         "name": "nails",
@@ -719,7 +719,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🐶": {
         "name": "doggo",
@@ -727,7 +727,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "🌿": {
         "name": "branch",
@@ -735,7 +735,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "➡️": {
         "name": "go-right",
@@ -743,7 +743,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
     "💎": {
         "name": "diamond",
@@ -751,7 +751,7 @@ root = {
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
-        "dataset_count": None
+        "dataset_count": None,
     },
 }
 

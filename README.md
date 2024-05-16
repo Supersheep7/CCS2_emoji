@@ -6,6 +6,7 @@ Done:
 4. Single dataframe, started some analysis on how much emojis are there etc
 5. Sanitize the data
 6. Work on data, various
+7. Commit to a first selection of emojis
 
 
 ===
@@ -14,7 +15,7 @@ To do:
 
 16/05
 
-1. Commit to a first selection of emojis
+1. Choose model and start setup
 
 18/05
 
