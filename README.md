@@ -4,6 +4,9 @@ Done:
 2. Choose twitter dataset to work with
 3. Filter dataset for those 50-100 emojis -> Get data
 4. Single dataframe, started some analysis on how much emojis are there etc
+5. Sanitize the data
+6. Work on data, various
+
 
 ===
 
@@ -11,9 +14,7 @@ To do:
 
 16/05
 
-1. Sanitize the data
-2. Work on data, various
-3. Commit to a first selection of emojis
+1. Commit to a first selection of emojis
 
 18/05
 

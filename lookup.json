@@ -5,7 +5,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 54438
+        "dataset_count": 54433
     },
     "\u2764\ufe0f": {
         "name": "red-heart",
@@ -13,7 +13,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 44028
+        "dataset_count": 46168
     },
     "\ud83e\udd23": {
         "name": "rofl",
@@ -21,7 +21,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 40534
+        "dataset_count": 40524
     },
     "\ud83d\udc4d": {
         "name": "thumbs-up",
@@ -29,7 +29,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 27475
+        "dataset_count": 27457
     },
     "\ud83d\ude2d": {
         "name": "crying-face",
@@ -37,7 +37,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 49274
+        "dataset_count": 49270
     },
     "\ud83d\ude4f": {
         "name": "amen",
@@ -45,7 +45,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 36096
+        "dataset_count": 36078
     },
     "\ud83d\ude18": {
         "name": "blowing-kiss",
@@ -53,7 +53,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 7304
+        "dataset_count": 7303
     },
     "\ud83e\udd70": {
         "name": "happy-love",
@@ -61,7 +61,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 29805
+        "dataset_count": 29798
     },
     "\ud83d\ude0d": {
         "name": "crazy-love",
@@ -69,7 +69,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 29616
+        "dataset_count": 29604
     },
     "\ud83d\ude0a": {
         "name": "happy-smile",
@@ -77,7 +77,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 9389
+        "dataset_count": 9380
     },
     "\ud83c\udf89": {
         "name": "party",
@@ -85,7 +85,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 22185
+        "dataset_count": 22179
     },
     "\ud83d\ude01": {
         "name": "beaming",
@@ -93,7 +93,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 6082
+        "dataset_count": 6081
     },
     "\ud83d\udc95": {
         "name": "couple-hearts",
@@ -101,7 +101,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 8379
+        "dataset_count": 8377
     },
     "\ud83e\udd7a": {
         "name": "oww",
@@ -117,7 +117,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 25706
+        "dataset_count": 25700
     },
     "\ud83d\udd25": {
         "name": "fire-emoji",
@@ -125,7 +125,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 34577
+        "dataset_count": 34558
     },
     "\ud83e\udd26": {
         "name": "facepalm",
@@ -133,7 +133,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 3907
+        "dataset_count": 3906
     },
     "\ud83e\udd37": {
         "name": "dunno",
@@ -149,7 +149,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 4064
+        "dataset_count": 4062
     },
     "\ud83d\ude06": {
         "name": "top-kek",
@@ -157,7 +157,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 4471
+        "dataset_count": 4469
     },
     "\ud83e\udd17": {
         "name": "hugging-face",
@@ -165,7 +165,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 6738
+        "dataset_count": 6737
     },
     "\ud83d\ude09": {
         "name": "wink",
@@ -173,7 +173,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 22760
+        "dataset_count": 22748
     },
     "\ud83c\udf82": {
         "name": "bday",
@@ -181,7 +181,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 4112
+        "dataset_count": 4111
     },
     "\ud83e\udd14": {
         "name": "mumble",
@@ -189,7 +189,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 24309
+        "dataset_count": 24305
     },
     "\ud83d\udc4f": {
         "name": "grats",
@@ -205,7 +205,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 2243
+        "dataset_count": 2238
     },
     "\ud83d\ude33": {
         "name": "omg",
@@ -221,7 +221,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 21314
+        "dataset_count": 21307
     },
     "\ud83d\ude0e": {
         "name": "sunglasses",
@@ -229,7 +229,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 21301
+        "dataset_count": 21289
     },
     "\ud83d\udc4c": {
         "name": "ok",
@@ -237,7 +237,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 3985
+        "dataset_count": 3980
     },
     "\ud83d\udc9c": {
         "name": "purple-heart",
@@ -245,7 +245,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 8557
+        "dataset_count": 8554
     },
     "\ud83d\ude14": {
         "name": "bit-sad",
@@ -269,7 +269,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 18245
+        "dataset_count": 18230
     },
     "\ud83d\udc96": {
         "name": "heart-bling",
@@ -277,7 +277,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 5882
+        "dataset_count": 5880
     },
     "\ud83d\udc40": {
         "name": "eyes",
@@ -285,7 +285,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 23633
+        "dataset_count": 23623
     },
     "\ud83d\ude22": {
         "name": "tear",
@@ -301,7 +301,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 20698
+        "dataset_count": 20695
     },
     "\ud83d\ude29": {
         "name": "augh",
@@ -317,7 +317,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 8465
+        "dataset_count": 8464
     },
     "\ud83c\udf39": {
         "name": "rose",
@@ -325,7 +325,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 3254
+        "dataset_count": 3252
     },
     "\ud83c\udf88": {
         "name": "balloon",
@@ -341,7 +341,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 20659
+        "dataset_count": 20656
     },
     "\ud83d\udc90": {
         "name": "flowers",
@@ -357,7 +357,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1561
+        "dataset_count": 1560
     },
     "\ud83e\udd1e": {
         "name": "fingers-crossed",
@@ -365,7 +365,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 2167
+        "dataset_count": 2166
     },
     "\ud83d\ude4c": {
         "name": "hands-up",
@@ -373,7 +373,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 5882
+        "dataset_count": 5881
     },
     "\ud83e\udd2a": {
         "name": "silly",
@@ -397,7 +397,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 22899
+        "dataset_count": 22896
     },
     "\ud83d\udc94": {
         "name": "broken-heart",
@@ -405,7 +405,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 2756
+        "dataset_count": 2755
     },
     "\ud83e\udd29": {
         "name": "eye-stars",
@@ -413,7 +413,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 4458
+        "dataset_count": 4456
     },
     "\ud83d\ude43": {
         "name": "topsy",
@@ -437,7 +437,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 739
+        "dataset_count": 738
     },
     "\ud83c\udf1e": {
         "name": "sunny-face",
@@ -453,7 +453,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 4882
+        "dataset_count": 4881
     },
     "\ud83d\ude08": {
         "name": "devilish",
@@ -461,7 +461,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 2188
+        "dataset_count": 2185
     },
     "\ud83c\udfb6": {
         "name": "music",
@@ -469,7 +469,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 2708
+        "dataset_count": 2707
     },
     "\ud83c\udf8a": {
         "name": "confetti",
@@ -485,7 +485,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 17190
+        "dataset_count": 17255
     },
     "\ud83d\udcb0": {
         "name": "money-bag",
@@ -493,7 +493,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 2821
+        "dataset_count": 2820
     },
     "\ud83d\udc51": {
         "name": "crown",
@@ -509,7 +509,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 2238
+        "dataset_count": 2235
     },
     "\ud83d\udca5": {
         "name": "explosion",
@@ -517,7 +517,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 3303
+        "dataset_count": 3298
     },
     "\ud83d\ude4b": {
         "name": "hand-raised",
@@ -541,7 +541,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1423
+        "dataset_count": 1422
     },
     "\ud83d\udca9": {
         "name": "bozhi",
@@ -549,7 +549,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 19816
+        "dataset_count": 19815
     },
     "\u2705": {
         "name": "good",
@@ -557,7 +557,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 26761
+        "dataset_count": 26743
     },
     "\ud83e\udd2e": {
         "name": "puke",
@@ -573,7 +573,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1708
+        "dataset_count": 1706
     },
     "\u2757": {
         "name": "exclamation",
@@ -581,7 +581,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 820
+        "dataset_count": 819
     },
     "\ud83c\udf08": {
         "name": "pride",
@@ -589,7 +589,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1899
+        "dataset_count": 1898
     },
     "\ud83d\udd95": {
         "name": "fuck-you",
@@ -597,7 +597,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 17230
+        "dataset_count": 17227
     },
     "\ud83d\udd34": {
         "name": "red-dot",
@@ -605,7 +605,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 933
+        "dataset_count": 932
     },
     "\ud83c\udf3b": {
         "name": "sunflower",
@@ -613,7 +613,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1900
+        "dataset_count": 1899
     },
     "\ud83d\udc83": {
         "name": "flamenco",
@@ -621,7 +621,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1196
+        "dataset_count": 1195
     },
     "\ud83c\udfc3": {
         "name": "running-man",
@@ -637,7 +637,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 414
+        "dataset_count": 550
     },
     "\u26a1": {
         "name": "bolt",
@@ -645,7 +645,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1237
+        "dataset_count": 1236
     },
     "\u2615": {
         "name": "coffee",
@@ -669,7 +669,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1217
+        "dataset_count": 1215
     },
     "\ud83e\udd8b": {
         "name": "butterfly",
@@ -677,7 +677,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1200
+        "dataset_count": 1198
     },
     "\ud83d\ude39": {
         "name": "cat-laughing",
@@ -685,7 +685,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1009
+        "dataset_count": 1008
     },
     "\ud83d\udca4": {
         "name": "zzz",
@@ -701,7 +701,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 35264
+        "dataset_count": 35253
     },
     "\ud83c\udf7b": {
         "name": "cheers",
@@ -717,7 +717,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 573
+        "dataset_count": 570
     },
     "\ud83d\ude3b": {
         "name": "crazy-love-cat",
@@ -725,7 +725,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1201
+        "dataset_count": 1199
     },
     "\ud83c\udf19": {
         "name": "crescent",
@@ -749,7 +749,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 22295
+        "dataset_count": 22294
     },
     "\ud83e\udd13": {
         "name": "glasses",
@@ -757,7 +757,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 738
+        "dataset_count": 737
     },
     "\u2620\ufe0f": {
         "name": "brook",
@@ -765,7 +765,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1130
+        "dataset_count": 1171
     },
     "\ud83e\udd76": {
         "name": "freeze",
@@ -789,7 +789,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1059
+        "dataset_count": 1056
     },
     "\ud83d\udc85": {
         "name": "nails",
@@ -813,7 +813,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 363
+        "dataset_count": 362
     },
     "\ud83d\udc44": {
         "name": "lips",
@@ -829,7 +829,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 994
+        "dataset_count": 993
     },
     "\u27a1\ufe0f": {
         "name": "go-right",
@@ -837,7 +837,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 1223
+        "dataset_count": 1271
     },
     "\ud83c\udf51": {
         "name": "peach",
@@ -861,7 +861,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 890
+        "dataset_count": 889
     },
     "\u26a0\ufe0f": {
         "name": "warning",
@@ -869,7 +869,7 @@
         "visual_features": null,
         "embedding": null,
         "mixed_features": null,
-        "dataset_count": 374
+        "dataset_count": 379
     },
     "\ud83c\udf77": {
         "name": "wine",

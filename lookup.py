@@ -433,14 +433,6 @@ root = {
         "mixed_features": None,
         "dataset_count": None
     },
-    "😴": {
-        "name": "sleepy",
-        "unicode": "U0001F634",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
     "🌞": {
         "name": "sunny-face",
         "unicode": "U0001F31E",
@@ -529,14 +521,6 @@ root = {
         "mixed_features": None,
         "dataset_count": None
     },
-    "😑": {
-        "name": "plain-face",
-        "unicode": "U0001F611",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
     "🥴": {
         "name": "drunk",
         "unicode": "U0001F974",
@@ -572,14 +556,6 @@ root = {
     "🌟": {
         "name": "star",
         "unicode": "U0001F31F",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
-    "❗": {
-        "name": "exclamation",
-        "unicode": "U00002757",
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
@@ -633,14 +609,6 @@ root = {
         "mixed_features": None,
         "dataset_count": None
     },
-    "👁️": {
-        "name": "eye",
-        "unicode": "U0001F441",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
     "⚡": {
         "name": "bolt",
         "unicode": "U000026A1",
@@ -689,14 +657,6 @@ root = {
         "mixed_features": None,
         "dataset_count": None
     },
-    "💤": {
-        "name": "zzz",
-        "unicode": "U0001F4A4",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
     "🐰": {
         "name": "bunny",
         "unicode": "U0001F430",
@@ -713,33 +673,9 @@ root = {
         "mixed_features": None,
         "dataset_count": None
     },
-    "🤠": {
-        "name": "cowboy",
-        "unicode": "U0001F920",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
     "😻": {
         "name": "crazy-love-cat",
         "unicode": "U0001F63B",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
-    "🌙": {
-        "name": "crescent",
-        "unicode": "U0001F319",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
-    "🙊": {
-        "name": "monkey-mouth",
-        "unicode": "U0001F64A",
         "visual_features": None,
         "embedding": None,
         "mixed_features": None,
@@ -769,22 +705,6 @@ root = {
         "mixed_features": None,
         "dataset_count": None
     },
-    "🥶": {
-        "name": "freeze",
-        "unicode": "U0001F976",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
-    "🍆": {
-        "name": "mulignan",
-        "unicode": "U0001F619",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
     "🤑": {
         "name": "dollar-eyes",
         "unicode": "U0001F911",
@@ -809,22 +729,6 @@ root = {
         "mixed_features": None,
         "dataset_count": None
     },
-    "🍓": {
-        "name": "strawberry",
-        "unicode": "U0001F353",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
-    "👄": {
-        "name": "lips",
-        "unicode": "U0001F444",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
     "🌿": {
         "name": "branch",
         "unicode": "U0001F33F",
@@ -841,14 +745,6 @@ root = {
         "mixed_features": None,
         "dataset_count": None
     },
-    "🍑": {
-        "name": "peach",
-        "unicode": "U0001F351",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
     "💎": {
         "name": "diamond",
         "unicode": "U0001F48E",
@@ -857,32 +753,6 @@ root = {
         "mixed_features": None,
         "dataset_count": None
     },
-    "🌱": {
-        "name": "sprout",
-        "unicode": "U0001F331",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
-    "⚠️": {
-        "name": "warning",
-        "unicode": "U000026A0",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    },
-    "🍷": {
-        "name": "wine",
-        "unicode": "U0001F377",
-        "visual_features": None,
-        "embedding": None,
-        "mixed_features": None,
-        "dataset_count": None
-    }
 }
 
-df = pd.DataFrame(root).T
-
-print(df.head())
+dictionary = pd.DataFrame(root).T
