@@ -7,48 +7,42 @@ Done:
 5. Sanitize the data
 6. Work on data, various
 7. Commit to a first selection of emojis
-
+8. Choose Model
+9. Run FastText for extracting embeddings on data. Get T-SNE
+10. Get embeddings of 97 emojis 
 
 ===
 
 To do:
 
-16/05
-
-1. Choose model and start setup
-
 18/05
 
-3. Run model for extracting embeddings on data. Maybe we will have to augment the data or smth. 
-4. Get embeddings of 50-100 emojis 
+1. Collect distances from fasttext embeddings
+2. Get encodings of 97 emojis from a (pre-trained?) autoencoder and collect distances
 
 19/05
 
-5. Get encodings of 50-100 emojis from a (pre-trained?) autoencoder -> Maybe we will need to compress them to a PCA?
+3. Design experiment: methods
+4. Design experiment: sample bias analysis
 
 20/05
 
-6. Fuse the two representation in some relevant way
+5. Fuse the two representation in some relevant way
 
 21/05
 
-7. Collect distances for (N*N-1)/2 pairs of emojis
-8. Select 50 relevant pairs of emojis to test against gold data
+6. Collect distances for (N*N-1)/2 pairs of emojis
+7. Select 50 relevant pairs of emojis to test against gold data
 
-22/05
+22-26/05 (switch to NLP and AIMAS videos)
 
-9. Design experiment: methods
-10. Design experiment: sample bias analysis
-
-23-26/05 (switch to NLP and AIMAS videos)
-
-11. Run experiment
+8. Run experiment
 
 27/05
 
-12. Test pairs of emojis, distances of each model against gold
+9. Test pairs of emojis, distances of each model against gold
 
 28-2/05
 
-13. Plots, tables, results
-14. Write report
+10. Plots, tables, results
+11. Write report
