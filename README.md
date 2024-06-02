@@ -1,4 +1,4 @@
-# Repository containing experiments, datasets and model for CCS2 Exam
+# Integrating Textual and Visual Features for Emoji Representation 
 
 ## Repo structure:
 
